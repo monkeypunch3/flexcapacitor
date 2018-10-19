@@ -4,7 +4,7 @@ Flex Capacitor Library
 A library of resources for Flex projects (beta).
 
 ==A library of resources for Flex projects^beta^== <br/>
-This library contains Flex controls, classes and utilities. The main feature of this library are the action effects classes (work in progress). Their goal is to take common Flex and AS3 code and wrap it up into an an abstract reusable class and apply it in MXML. In other environments these have been similar to or known as contracts, interactions, behaviors, commands, tasks and so on ([http://www.flexcapacitor.com/examples/LibraryExamples/ examples demo]). Update 11/18/2014: Many more effects have been added since this example including database actions and more.<br/>
+This library contains Flex controls, classes and utilities. The main feature of this library are the action effects classes (work in progress). Their goal is to take common Flex and AS3 code and wrap it up into an abstract reusable class and apply it in MXML. In other environments these have been similar to or known as contracts, interactions, behaviors, commands, tasks and so on ([http://www.flexcapacitor.com/examples/LibraryExamples/ examples demo]). Update 11/18/2014: Many more effects have been added since this example including database actions and more.<br/>
 
 ===Contents===<br/>
   * Webview - composes the StageWebView in a UIComponent 
